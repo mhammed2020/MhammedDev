@@ -5,9 +5,10 @@
 
 ✍️ I'm a  Python developer .
 
- I'm based in Morocco, MA.
-
 ⚡ Chief Meteorologist
 
 ☕️ I drink tea, and I love to  teach people.
+
+ I'm based in Morocco, MA.
+
 
